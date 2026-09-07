@@ -53,7 +53,7 @@ Os objetivos principais foram:
 ## 4. Estrutura do projeto
 
 ```text
-1-LH_NAUTICAL_CSV/
+1-LH_NAUTICAL/
 ├── .vscode/
 ├── dashboard/
 ├── data/
