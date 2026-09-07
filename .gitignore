@@ -1,0 +1,37 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.pfx
+*.secret
+
+# Credentials and local configuration
+*password*
+*passwd*
+*credential*
+*token*
+
+# VS Code local files
+.vscode/*.code-workspace
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Python/Jupyter
+.ipynb_checkpoints/
